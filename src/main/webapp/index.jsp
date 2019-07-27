@@ -174,6 +174,9 @@
           </div>
         </div>
       </div>
+      <div align="center">
+        <img src="http://static-dev.apps.cloud.vnet/springboot-helloworld-static/img/img2.jpg">
+      </div>
     </div>
   </body>
   <script>
